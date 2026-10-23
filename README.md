@@ -12,3 +12,9 @@ This is my first GitHub repository.
 - [x] Create my first repository
 - [ ] Learn branches and commits
 - [ ] Learn pull requests
+
+## What I Learned
+
+- A repository stores project files.
+- A commit records changes.
+- A branch allows independent work.
